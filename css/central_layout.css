@@ -1,0 +1,17 @@
+#background {
+    color: black;
+}
+
+#left_layout {
+    color: red;
+    background-color: yellow;
+    text-align: left;
+}
+#central_layout {
+    text-align: center;
+    color: aqua;
+}
+#right_layout {
+    color: green;
+    text-align: right;
+}
